@@ -31,12 +31,4 @@ If you are a developer and wish to understand or contribute to this frontend:
 3.  Start the development server using `npm start` or `yarn start`.
 4.  Explore the React components and CSS styles in the `src` directory.
 
-**Note:** Specific setup instructions might be available in the frontend repository.
 
-## Contributing
-
-[Optional: Add information about how others can contribute to the frontend, e.g., reporting issues, suggesting features, submitting pull requests.]
-
-## License
-
-[Optional: Add license information, e.g., MIT License.]
